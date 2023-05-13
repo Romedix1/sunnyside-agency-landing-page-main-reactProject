@@ -148,7 +148,7 @@ nav
   padding: 0.7rem 1rem;
   border: none;
   outline: none;
-  border-radius: 100%;
+  border-radius: 50px;
   background-color: var(--Yellow);
   font-family: 'Fraunces', sans-serif;
   font-weight: 700;
